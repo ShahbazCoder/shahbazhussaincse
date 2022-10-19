@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SHAHBAZ HUSSAIN</h1>
 <h3 align="center">A passionate frontend developer, programmer and entrepreneur from India</h3>
 
-<img align="right" alt="Coding" width="200" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
+<img align="right" alt="Coding" width="170" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazhussaincse&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazhussaincse" /> </p>
 

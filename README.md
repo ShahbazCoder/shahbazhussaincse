@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shahbazhussaincse](https://www.linkedin.com/in/shahbazhussaincse)
 
-- ⚡ Fun fact **I think I'm an enthusiast enterpreneur**
+- ⚡ Fun fact : **I think I'm an enthusiast enterpreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 
-- 👯 I’m looking to collaborate on **BOOKphilic**
+- 👯 I’m looking to collaborate on **---------------**
 
 - 🤝 I’m looking for help with **WebEx**
 
